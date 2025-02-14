@@ -13,7 +13,7 @@ function Navbar() {
 				className="bg-transparent border-none cursor-pointer"
 			>
 				<h1 className="text-3xl font-extrabold text-blue-600">
-					twitter
+					Social!
 				</h1>
 			</button>
 			<div className="flex items-center gap-6">
