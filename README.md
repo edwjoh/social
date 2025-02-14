@@ -1,4 +1,4 @@
-# Social media klon
+# Social!
 
 På social! kan användare registrera sig, logga in, skapa inlägg och gilla andra användares inlägg. Projektet är byggt med **React** och **Tailwind** för frontend och **Express** för backend, med **SQLite** som databas.
 
@@ -56,7 +56,7 @@ Följ dessa steg för att sätta upp projektet lokalt:
     Frontend-servern kommer att starta på `http://localhost:5173`.
 
 5. **Öppna appen**:
-   Öppna din webbläsare och gå till `http://localhost:5173` för att börja använda appen.
+   Öppna din webbläsare och gå till `http://localhost:5173` för att testa appen.
 
 ## Licens
 
